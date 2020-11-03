@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userData>
+    <userID>1</userID>
+    <username>Boomski</username>
+    <userFirstname>Krisna</userFirstname>
+    <userLastname>Dwipayana<userLastname>
+    <password>pbkdf2_sha256$216000$1xQQWxAALdNd$EanTLol5ujr9NgP+NeF9MGe6/kG6dZS7t63GCxG9RPo=</password>
+    <date_joined>2020-10-31 05:15:18.515931</date_joined>
+    <is_superuser>1</is_superuser>
+</userData>
+
+<userMatapelajaran>
+    <mataPelajaran>
+    <mapelID>1</mapelID> <mapelNama>Bahasa Indonesia</mapelNama>
+    </mataPelajaran>
+    <mataPelajaran>
+    <mapelID>2</mapelID> <mapelNama>Matematika</mapelNama>
+    </mataPelajaran>
+    <mataPelajaran>
+    <mapelID>3</mapelID> <mapelNama>Fisika</mapelNama>
+    </mataPelajaran>
+    <mataPelajaran>
+    <mapelID>4</mapelID> <mapelNama>Biologi</mapelNama>
+    </mataPelajaran>
+    <mataPelajaran>
+    <mapelID>5</mapelID> <mapelNama>Kimia</mapelNama>
+    </mataPelajaran>
+    <mataPelajaran>
+    <mapelID>6</mapelID> <mapelNama>Bahasa Inggris</mapelNama>
+    </mataPelajaran>
+    <mataPelajaran>
+    <mapelID>7</mapelID> <mapelNama>PKN</mapelNama>
+    </mataPelajaran>
+    <mataPelajaran>
+    <mapelID>8</mapelID> <mapelNama>Sosial</mapelNama>
+    </mataPelajaran>
+    <mataPelajaran>
+    <mapelID>9</mapelID> <mapelNama>Ekonomi</mapelNama>
+    </mataPelajaran>
+    <mataPelajaran>
+    <mapelID>10</mapelID> <mapelNama>Antropologi</mapelNama>
+    </mataPelajaran>
+</userMatapelajaran>
+
+<kelas>
+    <namaKelas>
+    XII-MIPA-1
+    </namaKelas>
+    <namaKelas>
+    XII-MIPA-2
+    </namaKelas>
+    <namaKelas>
+    XII-MIPA-3
+    </namaKelas>
+    <namaKelas>
+    XII-MIPA-4
+    </namaKelas>
+    <namaKelas>
+    XII-MIPA-5
+    </namaKelas>
+    <namaKelas>
+    XII-MIPA-6
+    </namaKelas>
+    <namaKelas>
+    XII-MIPA-7
+    </namaKelas>
+</kelas>
+
+<XII-MIPA-2>
+    <listMapel>
+        <mapelID>1,2,3,4,5,6,7</mapelID>
+    </listMapel>
+    <listSiswa>
+        <userID>1</userID>
+    </listSiswa>
+</XII-MIPA-2>

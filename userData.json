@@ -1,0 +1,44 @@
+{
+    "userData": {
+        "userID" : 1,
+        "username" : "Boomski",
+        "userFirstname" : "Krisna",
+        "userLastname" : "Dwipayana",
+        "password": "pbkdf2_sha256$216000$1xQQWxAALdNd$EanTLol5ujr9NgP+NeF9MGe6/kG6dZS7t63GCxG9RPo=",
+        "date_joined": "2020-10-31 05:15:18.515931",
+        "is_superuser": 1,
+        "Kelas" : "XII-MIPA-2"
+    },
+
+    "userMatapelajaran" : [
+        {"mapelID" : 1,"mapelNama" : "Bahasa Indonesia"},
+        {"mapelID" : 2,"mapelNama" : "Matematika"},
+        {"mapelID" : 3,"mapelNama" : "Fisika"},
+        {"mapelID" : 4,"mapelNama" : "Biologi"},
+        {"mapelID" : 5,"mapelNama" : "Kimia"},
+        {"mapelID" : 6,"mapelNama" : "Bahasa Inggris"},
+        {"mapelID" : 7,"mapelNama" : "PKN"},
+        {"mapelID" : 8,"mapelNama" : "Sosial"},
+        {"mapelID" : 9,"mapelNama" : "Ekonomi"},
+        {"mapelID" : 10,"mapelNama" : "Antropologi"}
+    ],
+
+    "Kelas" : [
+        {"namaKelas" : "XII-MIPA-1"},
+        {"namaKelas" : "XII-MIPA-2"},
+        {"namaKelas" : "XII-MIPA-3"},
+        {"namaKelas" : "XII-MIPA-4"},
+        {"namaKelas" : "XII-MIPA-5"},
+        {"namaKelas" : "XII-MIPA-6"},
+        {"namaKelas" : "XII-MIPA-7"},
+        {"namaKelas" : "XII-IPS-1"},
+        {"namaKelas" : "XII-IPS-2"}
+    ],
+
+    "XII-MIPA-2" : [
+        {"listMapel" : 
+            {"mapelID" : [1,2,3,4,5,6,7]}},
+        {"listSiswa":
+            {"userID" : 1}}
+    ]
+}
